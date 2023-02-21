@@ -1,5 +1,5 @@
 # Cryptographie
-Projet ISN (Information Science de Numérique) en Terminale Scientifique
+Projet ISN (Information Science de Numérique) en Terminale Scientifique.
 Projet contients 3 type de cryptage et décryptage :
 
   1 : Méthode César
